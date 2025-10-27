@@ -1,8 +1,8 @@
-# Registro de Cambios - Proyecto gcs-tp-apellido-nombre
+# Registro de Cambios - Proyecto gcs-tp-williams-brandon
 
 ## Versión 1.0
 
-### Elementos de Configuración (ECS):
+### Elementos de Configuracion (ECS):
 - `src/index.html`
 - `src/script.js`
 - `tests/test_validacion.js`
@@ -13,5 +13,16 @@
 - `docs/registro_cambios.md`
 - `.gitignore`
 
-### Descripción:
-Versión inicial del proyecto con estructura base y documentación.
+### Descripcion:
+- Versión inicial del proyecto con estructura base y documentación.
+
+## Versión 1.1
+
+### Archivos modificados
+- `src/script.js`
+- `docs/registro_cambios.md`
+
+### Descripcion de cambios:
+- Se agregó la validación de teléfono en el formulario de cliente.
+- Mensajes de error en rojo si el teléfono no es válido.
+- Mensaje de éxito en verde si el teléfono es válido.
