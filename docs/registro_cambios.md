@@ -1,5 +1,11 @@
 # Registro de Cambios - Proyecto gcs-tp-williams-brandon
 
+|Version    |Fecha          |Ticket |Descripcion            |Responsable        |
+|-----------|---------------|-------|-----------------------|-------------------|
+|v1.0       |(linea base)   | -     |Version inicial        |Brandon Williams   |
+|v1.1       |27/10/2025     |#101   |Validacion de telefono |Brandon Williams   |
+
+
 ## Versión 1.0
 
 ### Elementos de Configuracion (ECS):
